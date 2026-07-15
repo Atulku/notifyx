@@ -24,4 +24,4 @@ out/
 .vscode/
 
 # OS
-Thumbs.db
+Thumbs.db.DS_Store
