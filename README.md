@@ -1,8 +1,10 @@
 # NotifyX
 
-> Production-grade Event-Driven Notification Platform
+> A production-grade Event-Driven Notification Platform built using Java, Spring Boot, Kafka, PostgreSQL, Redis, Docker and Kubernetes.
 
-## Tech Stack
+---
+
+## 🚀 Tech Stack
 
 - Java 21
 - Spring Boot
@@ -16,25 +18,35 @@
 - Grafana
 - OpenTelemetry
 
-## Project Status
+---
 
-🚧 Under Development
+## 📂 Documentation
 
-### Sprint Progress
+| Section | Status |
+|---------|--------|
+| Project Overview | 🚧 |
+| Functional Requirements | 🚧 |
+| Non-Functional Requirements | 🚧 |
+| High Level Design | ⏳ |
+| Low Level Design | ⏳ |
+| API Design | ⏳ |
+| Deployment Guide | ⏳ |
 
-- [x] Repository Setup
-- [ ] Requirements
-- [ ] HLD
-- [ ] LLD
-- [ ] Project Setup
-- [ ] Notification API
+---
 
 ## Repository Structure
 
 ```text
-docs/
-services/
-docker/
-kubernetes/
-scripts/
+notifyx
+│
+├── docs
+├── services
+├── docker
+├── kubernetes
+├── scripts
+├── architecture
+└── .github
 ```
+
+---
+Project is currently in the **Architecture & Design** phase.
